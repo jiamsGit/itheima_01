@@ -1,3 +1,5 @@
 public static void main(System[] ags){
 	System.out.prinln("Hello word")
 }
+
+在第一次提交后 项目没有发生任何改变  Git不允许体检两次
