@@ -1,0 +1,3 @@
+public static void main(System[] ags){
+	System.out.prinln("Hello word")
+}
